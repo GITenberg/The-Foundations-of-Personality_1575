@@ -1,0 +1,24 @@
+_repo: The-Foundations-of-Personality_1575
+creator:
+  author:
+    agent_name: Myerson, Abraham
+    birthdate: 1881
+    deathdate: 1948
+    gutenberg_agent_id: '663'
+    url: http://www.gutenberg.org/2009/agents/663
+description: ''
+gutenberg_issued: '1998-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Personality'
+- !lcc 'BF'
+- !lcsh 'Mind and body'
+- !lcsh 'Character'
+title: The Foundations of Personality
+url: http://www.gutenberg.org/ebooks/1575
