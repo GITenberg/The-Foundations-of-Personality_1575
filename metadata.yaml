@@ -1,5 +1,5 @@
 _repo: The-Foundations-of-Personality_1575
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'BF'
 - !lcsh 'Mind and body'
 - !lcsh 'Character'
+- GITenberg
 title: The Foundations of Personality
 url: http://www.gutenberg.org/ebooks/1575
